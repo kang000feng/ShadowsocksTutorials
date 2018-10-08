@@ -88,7 +88,9 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 ### 希望想搭建的朋友可以通过我的教程搭建起来， 恳请大家一起帮忙转发穿墙技术教程让更多人看到外面的世界，星星之火可以燎原。
 
 所有客户端的下载配置教程:
-https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8CiOS%E4%B8%8B%E8%BD%BDss%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/   连接成功后，可以去Youtube测试网速。1080p毫无压力。
+https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8CiOS%E4%B8%8B%E8%BD%BDss%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/   
+
+连接成功后，可以去Youtube测试网速。1080p毫无压力。
 
 
 ![图片](/bandwagon/WechatIMG37.jpeg)
