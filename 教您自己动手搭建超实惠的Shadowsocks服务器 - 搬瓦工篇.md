@@ -73,7 +73,10 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 2.进入控制面板首页，记录下服务器IP地址，最后连接会使用该服务器IP。
 ![图片](/bandwagon/WechatIMG33.jpeg)
 
-3.点击Shadowsocks Server选项, 注意：如果面板左边kiwivm extras那里没有显示Shadowsocks选项，先用账号登陆搬瓦工网站以后，再在同一个浏览器中打开下面的链接 https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks   然后点击下面的 Install Shad0ws0cks Server 按钮继续.
+3.点击Shadowsocks Server选项, 注意：如果面板左边kiwivm extras那里没有显示Shadowsocks选项也没关系，先用账号登陆搬瓦工网站以后，再在同一个浏览器中打开下面的链接
+https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks   
+然后点击下面的 Install Shad0ws0cks Server 按钮继续安装就可以了.
+
 ![图片](/bandwagon/WechatIMG34.jpeg)
 
 4.点击Install Shadowsocks Server，等待几分钟，完成安装。
@@ -98,7 +101,7 @@ https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8Ci
 
 ## Q&A
 ### 没有看到Shadowsocks Server选项怎么办？
-答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
+答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，除了上面教程额外提供的方法外,您还可以点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
 执行成功后会显示Shadowsocks安装成功的提示和账号信息，就可以直接使用了。
 ```
 yum --enablerepo=epel -y install python-pip
