@@ -1,8 +1,8 @@
 # 教您自己动手搭建超实惠的Shadowsocks服务器 - 搬瓦工篇
 
-## VPN 一键翻墙【不满意包退 】包教会 只需3分钟
+## VPN 一键翻墙【不满意包退 】百分百包教会 只需3分钟
 
-## 本图文教程详细介绍了如何一键搭建Shadowsocks让手机电脑全翻墙,简单到不需要任何电脑基础就可以轻松学会翻墙。
+## 本图文教程手把手教您一键搭建Shadowsocks让手机电脑全翻墙,简单到不需要任何电脑基础就可以轻松学会翻墙。
 
 自己搭建Shadowsocks服务器有如下优势：
 
@@ -12,7 +12,7 @@
 
 优势3: 支持一键换IP地址，不用担心被封。
 
-优势4: 比直接买SS账号B格略高 🙂
+优势4: 比直接买SS账号B格略高 🙂, 不用担心奸商跑路
 
 费用: 最低每月16元，本站还提供9.3折优惠码:BWH26FXH3HIQ
 
@@ -40,12 +40,12 @@
 
 强烈推荐选择第一个或者第二个套餐，这两个套餐对比如下。
 
-|套餐名称|地理位置|是否是CN2线路|硬盘大小|内存大小|每月流量|价格|
+|套餐名称|地理位置|是否是CN2线路|硬盘大小|内存大小|每月流量|包年价格|
 -------| -------|------|------|------|------|------|
 SPECIAL 10G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|10GB|512MB|500GB|29.99美元/年|
 SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|1024GB|49.99美元/年，29.99美元/半年|
 
-注：CN2代表到中国大陆有专线连接，网速会比较快并且有保障。
+注：CN2代表到中国大陆有专线连接，网速会比较快并且稳定有保障。
 
 3.点击对应套餐后面Order Now按钮
 ![图片](/bandwagon/WechatIMG24.jpeg)
@@ -53,7 +53,7 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 4.直接点击Add To Cart按钮。
 ![图片](/bandwagon/WechatIMG25.jpeg)
 
-5.在promotional code处输入优惠码：BWH26FXH3HIQ，点击Validate Code，然后点击Checkout，进入结账页面。
+5.在promotional code处输入优惠码： BWH26FXH3HIQ  点击Validate Code，然后点击Checkout，进入结账页面。
 ![图片](/bandwagon/WechatIMG26.jpeg)
 
 6.确认好信息后，选择支付宝付款(Alipay)，勾选同意协议的选项，点击Complete Order，提交订单。
@@ -82,7 +82,9 @@ https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks
 4.点击Install Shadowsocks Server，等待几分钟，完成安装。
 ![图片](/bandwagon/WechatIMG35.jpeg)
 
-5.待安装完成后，在会显示Shadowsocks账号信息：加密方式、端口和密码，加上前面获取的服务器IP地址，就可以在客户端登录了。
+5.待安装完成后，如下图就会显示Shadowsocks账号信息：加密方式、端口和密码，加上前面获取的服务器IP地址，就可以在客户端登陆了。
+## (重要提醒: 最后进行客户端登录时输入密码一定要用复制粘贴, 并且注意检查不要把空格复制进去,因为手动输入密码很大概率会出错)
+
 ![图片](/bandwagon/WechatIMG36.jpeg)
 
 6.最后参考下面的Shadowsocks(简称SS)各个客户端的免费下载配置教程,就可以呼吸到自由的互联网空气了.
@@ -90,7 +92,7 @@ https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks
 
 ### 希望想搭建的朋友可以通过我的教程搭建起来， 恳请大家一起帮忙转发穿墙技术教程让更多人看到外面的世界，星星之火可以燎原。
 
-所有客户端的下载配置教程:
+各个客户端的下载及配置教程详见:
 https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8CiOS%E4%B8%8B%E8%BD%BDss%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/   
 
 连接成功后，可以去Youtube测试网速。1080p毫无压力。
@@ -101,7 +103,7 @@ https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8Ci
 
 ## Q&A
 ### 没有看到Shadowsocks Server选项怎么办？
-答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，除了上面教程额外提供的方法外,您还可以点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
+答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，除了上面教程已经额外提供的方法外,您还可以点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
 执行成功后会显示Shadowsocks安装成功的提示和账号信息，就可以直接使用了。
 ```
 yum --enablerepo=epel -y install python-pip
@@ -121,4 +123,4 @@ printf "*****************************************\nShadowsocks服务器已经安
 ![图片](/bandwagon/WechatIMG280.jpeg)
 
 ### 执行完上述代码，仍然没有Shadowsocks Server选项怎么办？
-答：不需要Shadowsocks Server选项了，直接下载Shadowsocks，并使用上面显示的账号信息就可以连接了。
+答：不需要Shadowsocks Server选项了，直接下载Shadowsocks客户端，并使用上面显示的账号信息登陆就可以连接了。
