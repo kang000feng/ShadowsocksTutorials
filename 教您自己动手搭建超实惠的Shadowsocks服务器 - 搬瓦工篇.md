@@ -19,7 +19,7 @@
 ## 一、注册搬瓦工账号
 
 1.点击[搬瓦工首页地址](https://bwh1.net/aff.php?aff=19925)，点击右上角注册按钮。
-(对于已经注册过的同学请点击右上角Client Area登陆, 然后再点击 [快速通道链接](https://bwh1.net/aff.php?aff=19925&gid=2),直接选择合适套餐购买)
+(对于已经注册过的同学请点击右上角Client Area登陆, 然后再点击这里 [优惠通道链接](https://bwh1.net/aff.php?aff=19925&gid=2),直接选择合适套餐购买)
 
 ![图片](/bandwagon/WechatIMG20.jpeg)
 
