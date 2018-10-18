@@ -84,7 +84,7 @@ https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks
 4.点击Install Shadowsocks Server，等待几分钟，完成安装。
 ![图片](/bandwagon/WechatIMG35.jpeg)
 
-5.待安装完成后，就会显示Shadowsocks账号信息：加密方式、端口和密码 (如下图红字标示)，加上前面获取的服务器IP地址，就可以在客户端登陆了.
+5.待安装完成后，点击左上方 Go back 按钮就会显示Shadowsocks账号信息：加密方式、端口和密码 (如下图红字标示)，加上前面获取的服务器IP地址，就可以在客户端登陆了.
 ## (重要提醒: 最后进行客户端登录时输入密码一定要用复制粘贴, 并且注意检查不要把空格复制进去,因为手动输入密码很大概率会出错)
 
 ![图片](/bandwagon/WechatIMG36.jpeg)
