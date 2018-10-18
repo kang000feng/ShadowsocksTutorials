@@ -98,11 +98,11 @@ https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks
 https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8CiOS%E4%B8%8B%E8%BD%BDss%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/   
 
 ## 备用下载地址:
-Windows 7客户端：https://kiwivm.64clouds.com/dist/shadowsocks-win-2.3.zip
+Windows 7及以下系统的客户端：https://kiwivm.64clouds.com/dist/shadowsocks-win-2.3.zip
 
 Windows 8客户端：https://kiwivm.64clouds.com/dist/shadowsocks-win-dotnet4.0-2.3.zip
 
-windows8/window 10  客户端下载地址：https://www.i5seo.com/1/SS_Win8_10.zip
+windows8 / window 10  客户端下载地址：https://www.i5seo.com/1/SS_Win8_10.zip
 
 
 连接成功后，可以去Youtube测试网速。1080p毫无压力。
