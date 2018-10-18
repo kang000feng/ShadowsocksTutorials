@@ -111,9 +111,9 @@ windows8 / window 10  客户端下载地址：https://www.i5seo.com/1/SS_Win8_10
 ![图片](/bandwagon/WechatIMG37.jpeg)
 
 
-## Q&A
+## 常见问题解答 Q&A
 ### 没有看到Shadowsocks Server选项怎么办？
-答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，除了上面教程已经额外提供的方法外,您还可以点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
+答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，上面教程已经额外提供了方法, 除此之外,您还可以点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
 执行成功后会显示Shadowsocks安装成功的提示和账号信息，就可以直接使用了。
 ```
 yum --enablerepo=epel -y install python-pip
