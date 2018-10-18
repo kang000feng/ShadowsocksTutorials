@@ -75,7 +75,7 @@ SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|102
 ![图片](/bandwagon/WechatIMG33.jpeg)
 
 3.注意：下面图中 现在面板左边Kiwivm Extras那里可能已经没有Shadowsocks Server选项, 不要慌，不要关闭当前的网页，然后在同一个浏览器中打开一个新网页,复制下面这个链接粘贴到新网页的地址栏中打开
-https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks   
+https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks
 然后点击网页中间的 Install Shad0ws0cks Server 按钮就可以继续安装了.
 ![图片](/bandwagon/WechatIMG35.jpeg)
 
