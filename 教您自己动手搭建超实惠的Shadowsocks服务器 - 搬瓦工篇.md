@@ -18,61 +18,50 @@
 
 ## 一、注册搬瓦工账号
 
-1.点击这里的[搬瓦工优惠地址](https://bwh1.net/aff.php?aff=19925)，点击右上角注册按钮。
-(对于已经注册过的同学请点击右上角Client Area登陆, 然后再点击这里 [优惠通道链接](https://bwh1.net/aff.php?aff=19925&gid=2),直接选择优惠套餐购买)
+1.点击这里的[搬瓦工优惠地址1](https://bwh8.net/aff.php?aff=19925&pid=56) 或者 [搬瓦工优惠地址2](https://bwh8.net/aff.php?aff=19925&pid=57)。
+(对于已经注册过的同学请点击右上角Client Area登陆, 然后再点击这里 [优惠通道链接](https://bwh8.net/aff.php?aff=19925&gid=2),直接选择优惠套餐购买)
 
-
-![图片](/bandwagon/WechatIMG20.jpeg)
-
-2.填写注册信息（注意：国家请务必选择China，这样可以避免以后被暂停服务。除了注册邮箱剩下的不需要填写真实信息，毕竟翻墙有一些匿名性比较好），然后输入验证码(如果有碰到的话),最后选中最下面的小方框(I have read and agree the Terms of service), 点击Register按钮完成注册。
-
-![图片](/bandwagon/WechatIMG21.jpeg)
-
-![图片](/bandwagon/WechatIMG21a.jpg)
-
-3.登录进入搬瓦工
-![图片](/bandwagon/WechatIMG22.jpeg)
-
-## 二、购买服务器
-
-1.点击Services->Order New Service
-![图片](/bandwagon/WechatIMG23.jpeg)
-
-2.选择合适的套餐
-
-强烈推荐选择第一个或者第二个套餐，这两个套餐对比如下。
+上面两个地址的优惠套餐对比如下。
 
 |套餐名称|地理位置|是否是CN2线路|硬盘大小|内存大小|每月流量|包年价格|
 -------| -------|------|------|------|------|------|
-SPECIAL 10G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|10GB|512MB|500GB|29.99美元/年|
-SPECIAL 20G KVM PROMO V3 – LOS ANGELES – CN2|LOS ANGELES|是|20GB|1024MB|1024GB|49.99美元/年，29.99美元/半年|
+搬瓦工优惠地址1–CN2|LOS ANGELES|是|10GB|512MB|500GB|29.99美元/年|
+搬瓦工优惠地址2–CN2|LOS ANGELES|是|20GB|1024MB|1024GB|49.99美元/年，29.99美元/半年|
 
 注：CN2代表到中国大陆有专线连接，网速会非常快并且稳定有保障。
 
-3.点击对应套餐后面Order Now按钮
-![图片](/bandwagon/WechatIMG24.jpeg)
 
-4.直接点击Add To Cart按钮。
+2.直接点击Add To Cart按钮。
 ![图片](/bandwagon/WechatIMG25.jpeg)
 
-5.在promotional code处输入优惠码： BWH26FXH3HIQ  点击Validate Code，然后点击Checkout，进入结账页面。
+3.在promotional code处输入优惠码： BWH26FXH3HIQ  点击Validate Code，然后点击Checkout，进入结账页面。
 ![图片](/bandwagon/WechatIMG26.jpeg)
 
-6.确认好信息后，选择支付宝付款(Alipay)，勾选同意协议的选项，点击Complete Order，提交订单。
+4.填写注册信息（注意：国家请务必选择China，这样可以避免以后被暂停服务。除了注册邮箱剩下的不需要填写真实信息，毕竟翻墙有一些匿名性比较好），然后输入验证码(如果有碰到的话),最后选中最下面的小方框(I have read and agree the Terms of service), 点击Register按钮完成注册。
+
+
+![图片](/bandwagon/WechatIMG21a.jpg)
+
+5.确认好信息后，选择支付宝付款(Alipay)，勾选同意协议的选项，点击Complete Order，提交订单。
 ![图片](/bandwagon/WechatIMG28.jpeg)
 
 7.点击Pay Now，进行支付。
 ![图片](/bandwagon/WechatIMG29.jpeg)
 
-8.使用支付宝完成付款。完成付款后，稍等几分钟，然后回到搬瓦工主页，先点击右上角的Client Area,点击Services->My Services，查看已经购买的服务器。 
+8.使用支付宝完成付款。完成付款后，稍等几分钟，然后回到搬瓦工主页，先点击右上角的Client Area,
+登录进入搬瓦工
+![图片](/bandwagon/WechatIMG20.jpeg)
+
+9.点击Services->My Services，查看已经购买的服务器。 
 ![图片](/bandwagon/WechatIMG30.jpeg)
 
-## 三、安装Shadowsocks服务端软件
+
+## 二、安装Shadowsocks服务端软件
 
 1.在My Services页面点击KiwiVM Control Panel按钮，进入服务器控制面板。
 ![图片](/bandwagon/WechatIMG32.jpeg)
 
-2.进入控制面板首页，先记录下服务器IP地址，最后连接会使用该服务器IP。
+2.进入控制面板首页，先记录下服务器IP地址，最后连接需要使用该服务器IP。
 ![图片](/bandwagon/WechatIMG33.jpeg)
 
 3.注意：下面图中 现在面板左边Kiwivm Extras那里可能已经没有Shadowsocks Server选项, 不要慌，不要关闭当前的网页，然后在同一个浏览器中打开一个新网页,复制下面这个链接粘贴到新网页的地址栏中打开
