@@ -33,7 +33,7 @@
 2.直接点击Add To Cart按钮。
 ![图片](/bandwagon/WechatIMG25.jpeg)
 
-3.在promotional code处输入优惠码： BWH26FXH3HIQ  点击Validate Code，然后点击Checkout，进入结账页面。
+3.在promotional code处输入优惠码 BWH26FXH3HIQ   接着点击Validate Code，然后点击Checkout，进入结账页面。
 ![图片](/bandwagon/WechatIMG26.jpeg)
 
 4.填写注册信息（注意：国家请务必选择China，这样可以避免以后被暂停服务。除了注册邮箱剩下的不需要填写真实信息，毕竟翻墙有一些匿名性比较好），然后输入验证码(如果有碰到的话)。
