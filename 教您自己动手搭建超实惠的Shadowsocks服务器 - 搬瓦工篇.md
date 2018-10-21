@@ -16,12 +16,11 @@
 
 费用: 最低每月16元，本站还提供9.3折优惠码:BWH26FXH3HIQ
 
-## 一、注册搬瓦工账号
+## 一、选择优惠套餐
 
 1.点击这里的[搬瓦工优惠地址1](https://bwh8.net/aff.php?aff=19925&pid=56) 或者 [搬瓦工优惠地址2](https://bwh8.net/aff.php?aff=19925&pid=57)。
-(对于已经注册过的同学请点击右上角Client Area登陆, 然后再点击这里 [优惠通道链接](https://bwh8.net/aff.php?aff=19925&gid=2),直接选择优惠套餐购买)
 
-上面两个地址的优惠套餐对比如下。
+上面两个地址的优惠套餐对比如下：
 
 注：CN2代表到中国大陆有专线连接，网速会非常快并且稳定有保障。
 
@@ -30,13 +29,16 @@
 搬瓦工优惠地址1–CN2|LOS ANGELES|是|10GB|512MB|500GB|29.99美元/年|
 搬瓦工优惠地址2–CN2|LOS ANGELES|是|20GB|1024MB|1024GB|49.99美元/年，29.99美元/半年|
 
+
+如果还是没找到合适套餐，请点击这里 [优惠通道链接](https://bwh8.net/aff.php?aff=19925&gid=2),选择想要的套餐，点击Order Now 购买
+
 2.直接点击Add To Cart按钮。
 ![图片](/bandwagon/WechatIMG25.jpeg)
 
 3.在promotional code处输入优惠码 BWH26FXH3HIQ   接着点击Validate Code，然后点击Checkout，进入结账页面。
 ![图片](/bandwagon/WechatIMG26.jpeg)
 
-4.填写注册信息（注意：国家请务必选择China，这样可以避免以后被暂停服务。除了注册邮箱剩下的不需要填写真实信息，毕竟翻墙有一些匿名性比较好），然后输入验证码(如果有碰到的话)。
+4.填写注册信息（注意：国家请务必选择China，这样可以避免以后被暂停服务。除了注册邮箱剩下的不需要填写真实信息，毕竟翻墙有一些匿名性比较好），已经有账户的同学也可以直接点击左上角的 Click here to login 按钮登录(在姓氏拼音上边))。
 
 
 ![图片](/bandwagon/WechatIMG21a.jpg)
