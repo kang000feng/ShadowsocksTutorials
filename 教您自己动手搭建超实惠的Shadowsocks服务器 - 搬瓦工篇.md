@@ -30,7 +30,7 @@
 搬瓦工优惠地址2–CN2|LOS ANGELES|是|20GB|1024MB|1024GB|49.99美元/年，29.99美元/半年|
 
 
-如果还是没找到合适套餐，请点击这里 [优惠通道链接](https://bwh8.net/aff.php?aff=19925&gid=2),选择想要的套餐，点击Order Now 购买
+如果还是没找到合适套餐，请点击这里 [优惠通道链接](https://bwh8.net/aff.php?aff=19925&gid=1),选择想要的套餐，点击Order Now 购买
 
 2.直接点击Add To Cart按钮。
 ![图片](/bandwagon/WechatIMG25.jpeg)
@@ -104,7 +104,7 @@ windows8 / window 10  客户端下载地址：https://www.i5seo.com/1/SS_Win8_10
 
 ## 常见问题解答 Q&A
 ### 没有看到Shadowsocks Server选项怎么办？
-答：一般情况是由于套餐选择或者数据中心选择跟教程不一样导致的。解决方案也非常简单，上面教程已经额外提供了方法, 除此之外,您还可以点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
+答：解决方案非常简单，上面教程已经额外提供了方法, 如果您实在打不开上面的链接, 您还可以点击控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
 执行成功后会显示Shadowsocks安装成功的提示和账号信息，就可以直接使用了。
 ```
 yum --enablerepo=epel -y install python-pip
@@ -124,4 +124,4 @@ printf "*****************************************\nShadowsocks服务器已经安
 ![图片](/bandwagon/WechatIMG280.jpeg)
 
 ### 执行完上述代码，仍然没有Shadowsocks Server选项怎么办？
-答：不需要Shadowsocks Server选项了，直接下载Shadowsocks客户端，并使用上面显示的账号信息登陆就可以连接了。
+答：不需要Shadowsocks Server选项，直接下载Shadowsocks客户端，并使用上面显示的账号信息登陆就可以连接了。
