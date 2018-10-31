@@ -125,3 +125,7 @@ printf "*****************************************\nShadowsocks服务器已经安
 
 ### 执行完上述代码，仍然没有Shadowsocks Server选项怎么办？
 答：不需要Shadowsocks Server选项，直接下载Shadowsocks客户端，并使用上面显示的账号信息登陆就可以连接了。
+
+### 如何在套餐到期前提前给搬瓦工账户充值
+答：点击这里(需要爬墙打开) https://program-thinker.blogspot.com/2012/10/blog-post.html
+
