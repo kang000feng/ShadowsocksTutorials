@@ -31,6 +31,7 @@
 
 
 如果还是没找到合适套餐，请点击这里 [优惠通道链接](https://bwh8.net/aff.php?aff=19925&gid=1),选择想要的套餐，点击Order Now 购买
+(有能力的朋友建议直接入[搬瓦工企业套餐](https://bwh8.net/aff.php?aff=19925&pid=72) 
 
 2.直接点击Add To Cart按钮。
 ![图片](/bandwagon/WechatIMG25.jpeg)
