@@ -51,7 +51,7 @@
 ![图片](/bandwagon/WechatIMG29.jpeg)
 
 8.使用支付宝完成付款。完成付款后，稍等几分钟，然后回到搬瓦工主页，先点击右上角的Client Area,
-登录进入搬瓦工
+使用刚才的注册邮箱和账户密码登录进入搬瓦工
 ![图片](/bandwagon/WechatIMG20.jpeg)
 
 9.点击Services->My Services，查看已经购买的服务器。 
