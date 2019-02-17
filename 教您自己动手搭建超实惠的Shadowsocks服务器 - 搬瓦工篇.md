@@ -109,3 +109,22 @@ windows8 / window 10  客户端下载地址：https://www.i5seo.com/1/SS_Win8_10
 ### 如何在套餐到期前提前给搬瓦工账户充值
 答：点击这里(需要爬墙打开) https://program-thinker.blogspot.com/2012/10/blog-post.html
 
+### 没有看到Shadowsocks Server选项怎么办？
+答：解决方案非常简单，上面教程已经额外提供了方法, 如果您实在打不开上面的链接, 您还可以点击上面控制面板里面的Root shell - advanced，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
+执行成功后会显示Shadowsocks安装成功的提示和账号信息，就可以直接使用了。
+```
+yum --enablerepo=epel -y install python-pip
+pip install shadowsocks
+echo '443' > /root/.my-shadowsocks-port
+openssl rand -base64 16 > /root/.my-shadowsocks-password
+echo 'aes-256-cfb' > /root/.my-shadowsocks-encryption
+/usr/bin/ssserver -s ::0 -p `cat /root/.my-shadowsocks-port` -k `cat /root/.my-shadowsocks-password` -m `cat /root/.my-shadowsocks-encryption` --user nobody --workers 2 -d start
+printf "\n/usr/bin/ssserver -s ::0 -p \`cat /root/.my-shadowsocks-port\` -k \`cat /root/.my-shadowsocks-password\` -m \`cat /root/.my-shadowsocks-encryption\` --user nobody --workers 2 -d start\n\n" >> /etc/rc.d/rc.local
+MY_IP=$(curl http://myip.dnsomatic.com)
+printf "*****************************************\nShadowsocks服务器已经安装成功，账号如下：\n服务器：$MY_IP \n端口：`cat /root/.my-shadowsocks-port` \n密码：`cat /root/.my-shadowsocks-password` \n加密方式：`cat /root/.my-shadowsocks-encryption` \n*****************************************\n"
+```
+执行成功后会看到如下的账号信息，就可以直接使用了。
+![图片](/bandwagon/WechatIMG280.jpeg)
+
+### 执行完上述代码，仍然没有Shadowsocks Server选项怎么办？
+答：不需要Shadowsocks Server选项，直接下载Shadowsocks客户端，并使用上面显示的账号信息登陆就可以连接了。
