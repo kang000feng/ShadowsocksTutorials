@@ -19,7 +19,7 @@ t.cn/RsfTTQ8    u.nu/gwhaa
 
 ## 一、选择优惠套餐
 
-1.点击这里的[搬瓦工优惠地址1](https://bwh8.net/aff.php?aff=19925&pid=56) 或者 [搬瓦工优惠地址2](https://bwh8.net/aff.php?aff=19925&pid=57)。
+1.点击这里的[搬瓦工优惠地址1](https://bwh8.net/aff.php?aff=19925&pid=58) 或者 [搬瓦工优惠地址2](https://bwh8.net/aff.php?aff=19925&pid=87)。
 
 上面两个地址的优惠套餐对比如下：
 
@@ -32,7 +32,7 @@ t.cn/RsfTTQ8    u.nu/gwhaa
 
 
 如果还是没找到合适套餐，请点击这里 [优惠通道链接](https://bwh8.net/aff.php?aff=19925&gid=1),选择想要的套餐，点击Order Now 购买
-(有能力的朋友建议直接入[搬瓦工企业套餐](https://bwh8.net/aff.php?aff=19925&pid=72) ,速度最快
+(有能力的朋友建议直接入[搬瓦工企业套餐](https://bwh8.net/aff.php?aff=19925&pid=88) ,速度最快
 
 2.直接点击Add To Cart按钮。
 ![图片](/bandwagon/WechatIMG25.jpeg)
