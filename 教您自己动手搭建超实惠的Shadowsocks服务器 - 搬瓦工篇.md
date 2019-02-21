@@ -115,7 +115,7 @@ windows8 / window 10  客户端下载地址：https://www.i5seo.com/1/SS_Win8_10
 ```
 yum --enablerepo=epel -y install python-pip
 pip install shadowsocks
-echo '443' > /root/.my-shadowsocks-port
+echo '23' > /root/.my-shadowsocks-port
 openssl rand -base64 16 > /root/.my-shadowsocks-password
 echo 'aes-256-cfb' > /root/.my-shadowsocks-encryption
 /usr/bin/ssserver -s ::0 -p `cat /root/.my-shadowsocks-port` -k `cat /root/.my-shadowsocks-password` -m `cat /root/.my-shadowsocks-encryption` --user nobody --workers 2 -d start
