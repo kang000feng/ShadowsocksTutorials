@@ -72,6 +72,8 @@ t.cn/RsfTTQ8    u.nu/gwhaa
 https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks
 
 然后点击网页中间的 Install Shad0ws0cks Server 按钮就可以继续安装了.
+## 如果您还是没看到Shadowsocks Server选项, 请跳到教程最后的常见问题解答 看第2个问答 
+
 ![图片](/bandwagon/WechatIMG35.jpeg)
 
 4.点击Install Shadowsocks Server，等待几分钟，它会自动完成安装。
