@@ -19,7 +19,7 @@ t.cn/RsfTTQ8    u.nu/gwhaa
 
 ## 一、选择优惠套餐
 
-1.点击这里的[搬瓦工优惠地址1](https://bwh88.net/aff.php?aff=19925&pid=58) 或者 [搬瓦工优惠地址2](https://bwh88.net/aff.php?aff=19925&pid=87)。
+1.点击这里的[搬瓦工优惠地址1](https://bwh88.net/aff.php?aff=19925&pid=57) 或者 [搬瓦工优惠地址2](https://bwh88.net/aff.php?aff=19925&pid=87)。
 
 上面两个地址的优惠套餐对比如下：
 
