@@ -67,12 +67,10 @@ t.cn/RsfTTQ8    u.nu/gwhaa
 2.进入控制面板首页，先记录下服务器IP地址，最后连接需要使用该服务器IP。
 ![图片](/bandwagon/WechatIMG33.jpeg)
 
-3.注意：下面图中 现在面板左边Kiwivm Extras那里可能已经没有Shadowsocks Server选项, 不要慌，不要关闭当前的网页，然后在同一个浏览器中打开一个新网页,复制下面这个链接粘贴到新网页的地址栏中打开
+3.注意：下面图中 现在面板左边Kiwivm Extras那里可能已经没有Shadowsocks Server选项, 不要慌，不要慌，不要关闭当前的网页，
 
-https://kiwivm.64clouds.com/main-exec.php?mode=extras_shadowsocks
-
-然后点击网页中间的 Install Shad0ws0cks Server 按钮就可以继续安装了.
-## 如果您还是没看到Shadowsocks Server选项, 请跳到教程最后的常见问题解答 看第2个问答 
+ 注意：
+## 如果您没看到Shadowsocks Server选项, 请跳到教程最后的常见问题解答 看第2个问答跟着操作即可
 
 ![图片](/bandwagon/WechatIMG35.jpeg)
 
@@ -132,3 +130,5 @@ printf "*****************************************\nShadowsocks服务器已经安
 
 ### 执行完上述代码，仍然没有Shadowsocks Server选项怎么办？
 答：不需要Shadowsocks Server选项，直接下载Shadowsocks客户端，并使用上面显示的账号信息登陆就可以连接了。
+
+### 3 有任何问题欢迎加入我们的电报群学习交流 https://t.me/fanqiangss
