@@ -110,7 +110,7 @@ windows8 / window 10  客户端下载地址：https://www.i5seo.com/1/SS_Win8_10
 答：点击这里(需要爬墙打开) https://program-thinker.blogspot.com/2012/10/blog-post.html
 
 ### 2 没有看到Shadowsocks Server选项怎么办？
-答：解决方案非常简单，上面教程已经额外提供了方法, 如果您实在打不开上面的链接, 您还可以点击上面控制面板左侧的Root shell - advanced ，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
+答：解决方案非常简单, 其实不需要那个选项, 您还可以点击上面控制面板左侧的Root shell - advanced ，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
 执行成功后会显示Shadowsocks安装成功的提示和账号信息，就可以直接使用了。
 ```
 yum --enablerepo=epel -y install python-pip
@@ -130,5 +130,6 @@ printf "*****************************************\nShadowsocks服务器已经安
 
 ### 执行完上述代码，仍然没有Shadowsocks Server选项怎么办？
 答：不需要Shadowsocks Server选项，直接下载Shadowsocks客户端，并使用上面显示的账号信息登陆就可以连接了。
+
 
 ### 3 有任何问题欢迎加入我们的电报群学习交流 https://t.me/fanqiangss
