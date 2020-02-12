@@ -1,6 +1,10 @@
 # 教您自己动手搭建超实惠的Shadowsocks服务器 - 搬瓦工篇
 
-## VPN 一键翻墙【不满意包退 】百分百包教会 小白只需3分钟(后附常见问题解答)
+
+# (对于不想搭建但又想翻墙的朋友,可以看另外一个教程 点击[教程链接](http://t.cn/A6hyu4xM) 直接注册付款,然后下载客户端扫描二维码就可高速连接 )
+
+ 
+# VPN 一键翻墙【不满意包退 】百分百包教会 小白只需3分钟(后附常见问题解答)
 
 ## 本图文教程手把手教您一键搭建Shadowsocks让手机\电脑\平板全部翻墙,简单到不需要任何电脑基础就可以轻松学会翻墙(后附常见问题解答)
 t.cn/RsfTTQ8    u.nu/gwhaa
@@ -87,8 +91,8 @@ t.cn/RsfTTQ8    u.nu/gwhaa
 
 ### 希望想搭建的朋友可以通过我的教程搭建起来， 恳请大家一起帮忙转发本站翻墙教程让更多人看到外面的世界，星星之火可以燎原。
 
-## 各个客户端的下载及登陆设置教程详见:
-https://vultr.aicnm.com/Windows%E3%80%81Mac%E3%80%81%E5%AE%89%E5%8D%93%E5%92%8CiOS%E4%B8%8B%E8%BD%BDss%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8F%8A%E9%85%8D%E7%BD%AE%E6%96%B9%E6%B3%95/   
+## 各个客户端的下载及登陆设置教程详见: 
+ 点击[教程链接](http://t.cn/A6hyu4xM) 
 
 ## 备用下载地址:
 Windows 7及以下系统的客户端：https://kiwivm.64clouds.com/dist/shadowsocks-win-2.3.zip
@@ -107,7 +111,7 @@ windows8 / window 10  客户端下载地址：https://www.i5seo.com/1/SS_Win8_10
 ## 常见问题解答 Q&A
 
 ### 1 如何在套餐到期前提前给搬瓦工账户充值
-答：点击这里(需要爬墙打开) https://program-thinker.blogspot.com/2012/10/blog-post.html
+答：点击这里(需要爬墙打开) http://t.cn/A6hyul0Y
 
 ### 2 没有看到Shadowsocks Server选项怎么办？
 答：解决方案非常简单, 其实不需要那个选项, 您还可以点击上面控制面板左侧的Root shell - advanced ，然后把下面这段脚本复制粘贴进去，然后点击Execute执行即可。
@@ -124,7 +128,12 @@ MY_IP=$(curl http://myip.dnsomatic.com)
 printf "*****************************************\nShadowsocks服务器已经安装成功，账号如下：\n服务器：$MY_IP \n端口：`cat /root/.my-shadowsocks-port` \n密码：`cat /root/.my-shadowsocks-password` \n加密方式：`cat /root/.my-shadowsocks-encryption` \n*****************************************\n"
 ```
 
-执行成功后会看到如下的账号信息，就可以直接使用了。
+
+
+
+
+
+### 执行成功后会看到如下的账号信息，就可以直接使用了。
 
 ![图片](/bandwagon/WechatIMG280.jpeg)
 
@@ -133,3 +142,4 @@ printf "*****************************************\nShadowsocks服务器已经安
 
 
 ### 3 有任何问题欢迎加入我们的电报群学习交流 https://t.me/fanqiangss
+### 或者使用官方机场[链接](http://t.cn/A6hyu4xM)
